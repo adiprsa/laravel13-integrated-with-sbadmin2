@@ -6,4 +6,5 @@ Inspired from <https://dev.to/raflizocky_/integrate-sb-admin-2-in-laravel-40a3>
 3. `php artisan serve`  
   
 ## Features  
-1. Register Login Logout, see branch `authentication`
+1. Register Login Logout, see branch `authentication`  
+1. CRUD, see branch `crud`  
